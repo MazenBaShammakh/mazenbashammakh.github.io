@@ -58765,12 +58765,12 @@ a1=A.a9k(n,n,B.cQ,n,n,!0,n,A.vF(A.a([A.vF(n,A.js(n,n,B.eI,n,n,n,n,n,m,n,n,i?48:6
 s=A.eq(n,!f||h?24:32,n)
 r=A.aei("Stay tuned for an exciting journey through my creative world. My portfolio website is getting ready!",A.js(n,n,B.iF,n,n,n,n,n,"Raleway",n,n,i?16:24,n,n,B.eV,n,n,!0,n,n,n,n,n,n,n,n),B.cP)
 q=A.eq(n,!f||h?48:64,n)
-p=i?24:40
+p=!f||h?24:40
 p=A.a7W(n,n,B.FL,n,n,n,B.FM,n,n,n,n,n,n,new A.ce(new A.bo(p,24,p,24),t.C4),n,n,n,n,n,n,n,n)
 o=t.af
-o=A.a([A.eq(A.Zu(B.eg,A.a([c,new A.kx(new A.bo(a,b,a,b),new A.zM(B.hD,B.fw,B.dB,B.j4,n,B.hh,n,A.a([a0,new A.vg(1,n),a1,s,r,q,new A.AG(new A.Q2(),n,n,n,p,B.O,n,!1,n,A.aei("Notify me",A.js(n,n,n,n,n,n,n,n,"Raleway",n,n,i?16:20,n,n,B.eV,n,n,!0,n,n,n,n,n,n,n,n),n),n),new A.vg(1,n),new A.C1(new A.Q3(this,j),n)],o),n),n)],o),B.fZ),d,e)],o)
+o=A.a([A.eq(A.Zu(B.eg,A.a([c,new A.kx(new A.bo(a,b,a,b),new A.zM(B.hD,B.fw,B.dB,B.j4,n,B.hh,n,A.a([a0,new A.vg(1,n),a1,s,r,q,new A.AG(new A.Q2(),n,n,n,p,B.O,n,!1,n,A.aei("Notify me",A.js(n,n,n,n,n,n,n,n,"Raleway",n,n,!f||h?16:20,n,n,B.eV,n,n,!0,n,n,n,n,n,n,n,n),n),n),new A.vg(1,n),new A.C1(new A.Q3(this,j),n)],o),n),n)],o),B.fZ),d,e)],o)
 if(f&&!h)o.push(A.eq(new A.rO(A.aoy(n,n,new A.nm("assets/images/illustration.png",n,n)),B.cX,B.hy,n),d,k/2))
-return new A.tp(new A.uO(A.a9l(o,B.fw,B.dB),n),"Coming Soon",g,!1,n)},
+return new A.tp(new A.uO(A.a9l(o,B.fw,B.dB),n),"Mazen Ba Shammakh",g,!1,n)},
 lZ(a,b,c,d,e){var s=null,r=a?B.e3:B.JZ,q=A.a91(A.a8t(s,A.eq(A.aef(c),40,40),B.br,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.Q4(a,e),s,s,s),r,s,s)
 r=A.apD(q,d,B.Ld)
 return r},
