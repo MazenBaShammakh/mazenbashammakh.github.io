@@ -84775,7 +84775,7 @@ var $async$w4=A.R(function(b,c){if(b===1){p=c
 s=q}while(true)switch(s){case 0:o.ai(new A.apj(o))
 n=A.dP("https://api.openai.com/v1/images/generations")
 h=t.N
-m=A.K(["Content-Type","application/json","Authorization","Bearer sk-A0T-5GFlfNILBqfQSJqHZsyiaILXG35osMKd41CR0-T3BlbkFJxTX4Wq14XtJvDDrRkcpiCzYQE8VLjY_ob7nqLo8fcA"],h,h)
+m=A.K(["Content-Type","application/json","Authorization","Bearer sk-VTrarNDCq5EnqNB35hzM3g3IUTxgccvWe99fdTreVhT3BlbkFJ8p42zhjVO0TUUXyDoEF6Je7mZpG9hs4a1Iz6FGG0kA"],h,h)
 l=B.bz.Ul(A.K(["model","dall-e-3","prompt",a,"size","1024x1024","quality","standard","n",1],h,t.K),null)
 q=3
 s=6
