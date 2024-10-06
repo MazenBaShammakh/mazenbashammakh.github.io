@@ -47260,19 +47260,20 @@ if(s===b)return!0
 return b.a==s.a&&b.b==s.b&&b.c==s.c},
 k(a){return"OpenAIImageData(url: "+A.i(this.a)+", b64Json: "+A.i(this.b)+", revisedPrompt: "+A.i(this.c)+")"}}
 A.ags.prototype={
-Ac(a,b,c,d,e){return this.anl(0,b,c,d,e)},
-anl(a,b,c,d,e){var s=0,r=A.V(t.Zr),q,p,o
-var $async$Ac=A.W(function(f,g){if(f===1)return A.S(g,r)
+Ac(a,b,c,d,e,f){return this.anl(0,b,c,d,e,f)},
+anl(a,b,c,d,e,f){var s=0,r=A.V(t.Zr),q,p,o
+var $async$Ac=A.W(function(g,h){if(g===1)return A.S(h,r)
 while(true)switch(s){case 0:$.aDE()
 p=B.c.bm("/images/generations","/")?"/images/generations":"//images/generations"
 o=A.u(t.N,t.z)
-o.n(0,"prompt",c)
-o.n(0,"n",b)
-o.n(0,"size",A.aVi(e))
-o.n(0,"response_format",A.aUx(d))
+o.n(0,"model",b)
+o.n(0,"prompt",d)
+o.n(0,"n",c)
+o.n(0,"size",A.aVi(f))
+o.n(0,"response_format",A.aUx(e))
 s=3
 return A.a4(A.agu(o,null,new A.agt(),"https://api.openai.com/v1"+p,t.Zr),$async$Ac)
-case 3:q=g
+case 3:q=h
 s=1
 break
 case 1:return A.T(q,r)}})
@@ -89703,7 +89704,7 @@ $.aTp=p
 $.aNi()
 $.aDE()
 s=2
-return A.a4(new A.ags().Ac(0,1,a,B.OQ,B.OR),$async$x4)
+return A.a4(new A.ags().Ac(0,"dall-e-3",1,a,B.OQ,B.OR),$async$x4)
 case 2:p=c.b,n=0
 case 3:if(!(n<p.length)){s=5
 break}m=p[n]
